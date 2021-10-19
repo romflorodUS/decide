@@ -13,7 +13,7 @@ cuando sea posible. Por lo tanto se asumen algunas carencias para permitir
 que sea entendible y extensible.
 
 un gran cambio para e hombre
-
+pero no va
 Subsistemas, apps y proyecto base
 ---------------------------------
 
