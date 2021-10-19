@@ -3,7 +3,7 @@
 
 Plataforma voto electrónico educativa
 =====================================
-un cambio!
+un cambio! potente aaa
 
 El objetivo de este proyecto es implementar una plataforma de voto
 electrónico seguro, que cumpla una serie de garantías básicas, como la
@@ -13,6 +13,7 @@ Se trata de un proyecto educativo, pensado para el estudio de sistemas de
 votación, por lo que prima la simplicidad por encima de la eficiencia
 cuando sea posible. Por lo tanto se asumen algunas carencias para permitir
 que sea entendible y extensible.
+UN GRAN CAMBIO PARA EL HOMBRE
 
 un gran cambio para e hombre
 pero no va
